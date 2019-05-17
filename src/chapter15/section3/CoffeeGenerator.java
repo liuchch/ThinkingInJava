@@ -1,3 +1,5 @@
+package chapter15.section3;
+
 import java.util.Iterator;
 import java.util.Random;
 
