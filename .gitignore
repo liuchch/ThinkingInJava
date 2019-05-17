@@ -32,3 +32,4 @@ dependency-reduced-pom.xml
 *.iws
 *.idea
 /out/
+/.idea/workspace.xml
